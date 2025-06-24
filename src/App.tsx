@@ -84,6 +84,7 @@ const App: React.FC = () => {
               <span className='title-main'>Cerebro 3D Engine</span>
               <span className='title-sub'>Cerebro 3D Editor</span>
             </h1>
+            <p className='hero-description'>智能化Web3D编辑器</p>
             <div className='hero-buttons'>
               <a 
                 href='https://cerebro3d.cerror.cn' 
@@ -115,7 +116,7 @@ const App: React.FC = () => {
               </p>
             </div>
             <div className='feature-card'>
-              <div className='feature-icon'>☀️</div>
+              <div className='feature-icon'>⚡</div>
               <h3>简洁易用</h3>
               <p>
                 高效进行场景处理，并且提供网络压缩存储功能，在项目中快速选取加载
