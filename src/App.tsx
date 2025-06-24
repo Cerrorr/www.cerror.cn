@@ -49,7 +49,7 @@ const App: React.FC = () => {
       <nav className='navbar'>
         <div className='nav-left'>
           <img
-            src='/public/images/logo.png'
+            src='/images/logo.png'
             alt='Cerebro3D Logo'
             className='logo'
           />
